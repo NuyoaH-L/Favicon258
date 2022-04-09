@@ -39,7 +39,7 @@ body {
 .headPhoto {
     width: 8rem;
     height: 8rem;
-    background-color: white;
+    background: url(https://fodi.nuyoah-l.workers.dev?file=/bg.jpg);
     background-size: cover;
     border-radius: 50%;
     position: relative;
