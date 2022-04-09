@@ -4,7 +4,7 @@
 }
 
 body {
-    background: pink no-repeat fixed center; 
+    background: white no-repeat fixed center; 
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
